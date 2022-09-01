@@ -1,1 +1,1 @@
-Write a script that prints
+We are symbols
