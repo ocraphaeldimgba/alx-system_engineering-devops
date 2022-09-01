@@ -1,1 +1,1 @@
-Delete the directory
+Write a script
