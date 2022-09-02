@@ -1,0 +1,5 @@
+#!/bin/bash
+# My_first_script
+echo '#!/bin/bash'
+echo 'chmod 755 0-iam_betty'
+
