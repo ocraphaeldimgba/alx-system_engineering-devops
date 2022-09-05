@@ -1,1 +1,1 @@
-PERMISSIONS
+ifonly
