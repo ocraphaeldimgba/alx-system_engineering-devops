@@ -1,1 +1,1 @@
-first 10
+only 3
